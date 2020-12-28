@@ -30,6 +30,7 @@ def change_color(board, cell):
     else:
         board.values[i][j] = 'blue'
 
+
 if __name__ == "__main__":
     size = width, height = 400, 400
     screen = pygame.display.set_mode(size)
