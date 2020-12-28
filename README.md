@@ -15,3 +15,4 @@ GitHubFlow оперирует следующими сущностями:
 
 ___
 by Ilya Loshkarev and others:
+LioShady - Денис Пелипейченко
