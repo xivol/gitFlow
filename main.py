@@ -24,7 +24,7 @@ def change_color(board, cell):
     j, i = cell
     col = board.values[i][j]
     if col is None:
-        board.values[i][j] = 'red'
+        board.values[i][j] = 'black'
     elif col == 'blue':
         board.values[i][j] = None
     else:
