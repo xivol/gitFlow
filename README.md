@@ -1,7 +1,7 @@
 # gitFlow
 YALYCEUM gitFlow
 
-###GitHubFlow
+### GitHubFlow
 
 GitHubFlow оперирует следующими сущностями:
 
